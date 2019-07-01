@@ -1,10 +1,12 @@
-# **Working with Isaac**
+# Working with Isaac
 
 
-## go/working-with-isaac
+## isaa.ch/wwi
 
-**Author**: isaach@ \
-**Creation Date**: August 2017 \
+**Author**: @isaach \
+**Version history**: \
+	v1.1:	June 2019 \
+	v1: 	August 2017 \
 **Status**: living 
 
 
@@ -12,10 +14,8 @@
 
 This is not in any particular order.
 
-
-
 1. If you’re new to Google, my [Tips for Nooglers](http://go/tips-for-nooglers) might be helpful
-2. I generally work ~8.30am–~5.30pm MT, and then ~10pm–~12am MT. The time in between I aim to reserve for me and family.
+1. I generally work ~8.30am–~5.30pm MT, and then ~10pm–~12am MT. The time in between I aim to reserve for me and family.
     1. that’s me. you do you.
     2. late-night email isn’t in general expected or desired.
     3. my family? A wife who teaches yoga; two daughters, 6 and 8
@@ -60,3 +60,4 @@ This is not in any particular order.
 
 
 *   stuff about 1:1s
+
