@@ -1,4 +1,4 @@
-# Working with Isaac
+# Working with Isaac v1.1
 
 ## isaa.ch/wwi
 
