@@ -3,8 +3,8 @@
 ## isaa.ch/wwi
 
 **Author**: @[isaach](https://twitter.com/isaach) \
-**Version history**: \
-* v1.1:	June 2019 \
+**Version history**:
+* v1.1:	June 2019
 * v1: 	[August 2017](https://docs.google.com/document/d/1r8-l3Chsp-4Z6w0BPGSlDNkR3Tkqbcud52ESm6PE61Y/) \
 **Status**: living 
 
