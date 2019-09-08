@@ -28,6 +28,7 @@ Likely if you report to me, and possibly even if you don't, the following will b
     1. Any email chain >500 words suggests that a document should be created.
     1. Any group chat conversation >50 posts long suggests that a document should be created.
 1. I believe in the [Eisenhower Matrix](http://www.eisenhower.me/eisenhower-matrix/) (urgency/significance). Be aware that not everything you’re asked to do Urgently is actually Significant; and that there is Significant non-Urgent stuff which nobody is bugging you for. Prioritize accordingly.
+    1. One super-rough rule of thumb for "significant" is "stuff that in a year's time you'll (a) remember you did; and (b) be glad you did"
 1. I also believe in the [Impact/Effort matrix](https://hunterwalk.com/2016/06/18/the-best-startups-resists-snacks-im-not-talking-about-food/), and that you have to be constantly vigilant as to where you’re spending your effort. Resist the lure of low-effort but low-impact work.
     1. Note that work can be moved vertically up on this matrix by making it reusable. (corollary: create reusable artifacts.)
 1. It’s important to meet in person every now and then with the people you work with. Aim to travel to sit down with colleagues in sibling sites from time to time, and probably at least once each quarter. When you’re traveling, also aim to meet in person with people to whom you’re organizationally adjacent but with whom you maybe don’t work closely.
