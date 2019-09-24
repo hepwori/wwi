@@ -76,10 +76,10 @@ Likely if you report to me, and possibly even if you don't, the following will b
     > *The answer is the job- or task-relevant maturity of each of your subordinates. In other words, how much experience does a given subordinate have with the specific task at hand?…the most effective management style instance varies from very close to very loose supervision as a subordinate’s task maturity increases* -- Andy Grove
 
 1. 1-on-1 agenda can vary - make it your own - [here is a great template to tryout](/media/1-on-1-Meeting-Agenda.pdf). You tell me what's important. 
-    1. What’s on your mind this week?
-    1. How happy were you this past week?
-    1. How productive were you this past week?
-    1. What feedback do you have for me?
+    - What’s on your mind this week?
+    - How happy were you this past week?
+    - How productive were you this past week?
+    - What feedback do you have for me?
 
     > *A key point about a one-on-one: it should be regarded as the subordinate’s meeting, with its agenda and tone set by him* -- Andy Grove
 
