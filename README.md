@@ -57,18 +57,35 @@ Likely if you report to me, and possibly even if you don't, the following will b
 ##  1-on-1s & Skip Meetings
 
 1. 1-on-1s exist to connect with you on a more personal level - they are not a check-in on project status. It is ok to discuss progress towards OKRs - however that should not be the primary focus.
-1. 1-on-1s allow information to flow bottom-up and provide valuable feedback to your manager or skip. 1-on-1s are about the manager or skip listening (*2 ears, 1 mouth*) not doing all the talking.
+
+    > *Ninety minutes of your time can enhance the quality of your subordinate’s work for two weeks, or for some eighty-plus hours* -- Andy Grove
+
+1. 1-on-1s allow information to flow bottom-up and provide valuable feedback to your manager or skip. 1-on-1s are about the manager or skip listening (*2 ears, 1 mouth*) not doing all the talking - however you should be probing for deeper understanding. See [High Output Management - Grove's Principle of Didactic Management](https://getlighthouse.com/blog/high-output-management/).
+
+    > *When the supervisor thinks the subordinate has said all he wants to about a subject, he should ask another question. He should try to keep the flow of thoughts coming by prompting the subordinate with queries until both feel satisfied they have gotten to the bottom of the problem*  -- Andy Grove
+
 1. Remote 1-on-1s should be done using VC so presence is visible to both parties.
 1. 1-on-1s are a perfect place to share [I like, I wish, I wonder][1] feedback in more depth.
 1. 1-on-1 venue can take any shape you desire - some prefer walking 1-on-1s versus sitting. Be creative!
 1. 1-on-1 durations can vary from 30-60 minutes depending on role and responsibilities. If you don't feel your session is long enough - please share!
+
+    > *I feel that a one-on-one should last an hour at minimum. Anything less, in my experience, tends to make the subordinate confine himself to simple things that can be handled quickly*  -- Andy Grove
+
 1. 1-on-1 frequency should be at minimum monthly - but for skips quarterly or semesterly is suggested. 1-on-1s should not regularly be canceled - if this is routine - we're missing the bar. 
+
+    > *The answer is the job- or task-relevant maturity of each of your subordinates. In other words, how much experience does a given subordinate have with the specific task at hand?…the most effective management style instance varies from very close to very loose supervision as a subordinate’s task maturity increases* -- Andy Grove
+
 1. 1-on-1 agenda can vary - make it your own - [here is a great template to tryout](/media/1-on-1-Meeting-Agenda.pdf). You tell me what's important. 
     1. What’s on your mind this week?
     1. How happy were you this past week?
     1. How productive were you this past week?
     1. What feedback do you have for me?
+
+    > *A key point about a one-on-one: it should be regarded as the subordinate’s meeting, with its agenda and tone set by him* -- Andy Grove
+
 1. 1-on-1 content tracking is important - ideally both parties take rough notes, but you should own being the scribe and send meeting minutes recap to snapshot what was discussed along with any action items. 
+
+    > *Equally important is what “writing it down” symbolizes…the act implies a commitment, like a handshake, that something will be done. The supervisor…can then follow up at the next one-on-one* -- Andy Grove
 
 
 [1]: https://www.linkedin.com/pulse/20131017224857-6488620-i-like-i-wish-i-wonder
