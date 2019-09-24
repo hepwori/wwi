@@ -4,6 +4,7 @@
 
 **Author**: [@isaach](https://twitter.com/isaach) \
 **Version history**:
+* v2.0: September 2019
 * v1.1:	June 2019
 * v1: 	[August 2017](https://docs.google.com/document/d/1r8-l3Chsp-4Z6w0BPGSlDNkR3Tkqbcud52ESm6PE61Y/)
 
@@ -41,7 +42,7 @@ Likely if you report to me, and possibly even if you don't, the following will b
 1. Consider keeping a tidy to-do list and maybe [have your life changed](https://twitter.com/isaach/status/897479250646794242).
 1. Remember that—unless you’re really explicitly given a hard requirement—most things asked of you should be treated as _input_ into your prioritization process. This goes even for direction given by your manager: my default approach is to treat my manager as a stakeholder in my work, and my job is to weigh and balance the needs of _all_ the various stakeholders, my boss included.
 1. I aim to have "career chats" with my directs every few weeks or so—to check in on trajectories, desires, ambitions, and so on. This can be as often as they like at their option, but if they don’t bring it up at all then I will.
-1. I've found the “[I like, I wish, I wonder](https://www.linkedin.com/pulse/20131017224857-6488620-i-like-i-wish-i-wonder)” feedback framework generally useful. Consider using it to give feedback and to solicit feedback.
+1. I've found the “[I like, I wish, I wonder][1]” feedback framework generally useful. Consider using it to give feedback and to solicit feedback.
 1. I hold myself strictly to the principle that one’s documents/spreadsheets/decks should be open for commenting across the company unless there’s a really good reason.
     1. Good reason: protecting the confidence of a partner/customer/colleague.
     1. Good reason: the document includes personnel information (perf data, upcoming org change, HC planning, anything HR-related.)
@@ -53,7 +54,21 @@ Likely if you report to me, and possibly even if you don't, the following will b
 1. I highly value feedback, and welcome it. There are a million ways in which I can improve, and feedback is a critical part of me getting there. Thank you in advance!
 1. Ask me anything. Seriously.
 
-## // TODO in version 2
+##  1-on-1s & Skip Meetings
 
-*   stuff about 1:1s.
+1. 1-on-1s exist to connect with you on a more personal level - they are not a check-in on project status. It is ok to discuss progress towards OKRs - however that should not be the primary focus.
+1. 1-on-1s allow information to flow bottom-up and provide valuable feedback to your manager or skip. 1-on-1s are about the manager or skip listening (*2 ears, 1 mouth*) not doing all the talking.
+1. Remote 1-on-1s should be done using VC so presence is visible to both parties.
+1. 1-on-1s are a perfect place to share [I like, I wish, I wonder][1] feedback in more depth.
+1. 1-on-1 venue can take any shape you desire - some prefer walking 1-on-1s versus sitting. Be creative!
+1. 1-on-1 durations can vary from 30-60 minutes depending on role and responsibilities. If you don't feel your session is long enough - please share!
+1. 1-on-1 frequency should be at minimum monthly - but for skips quarterly or semesterly is suggested. 1-on-1s should not regularly be canceled - if this is routine - we're missing the bar. 
+1. 1-on-1 agenda can vary - make it your own - [here is a great template to tryout](/media/1-on-1-Meeting-Agenda.pdf). You tell me what's important. 
+    1. What’s on your mind this week?
+    1. How happy were you this past week?
+    1. How productive were you this past week?
+    1. What feedback do you have for me?
+1. 1-on-1 content tracking is important - ideally both parties take rough notes, but you should own being the scribe and send meeting minutes recap to snapshot what was discussed along with any action items. 
 
+
+[1]: https://www.linkedin.com/pulse/20131017224857-6488620-i-like-i-wish-i-wonder
