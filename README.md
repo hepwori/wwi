@@ -16,7 +16,7 @@ Likely if you report to me, and possibly even if you don't, the following will b
 1. I generally work ~8.30am–~5.30pm MT, and then often ~10pm–~12am MT. The time in between I aim to reserve for me and family.
     1. That’s me. You do you.
     1. Late-night email isn’t in general expected or desired.
-    1. My family? A wife who's recovering from cancer; two daughters, 7 and 9.
+    1. My family? A wife who's recovering from cancer; two daughters, 8 and 10.
 1. If you receive an email from me at night then the right interpretation is “because Isaac is doing work on his schedule” rather than “Isaac wants an answer right now”.
     1. Same with chats/IMs.
     1. A [colleague of mine](https://twitter.com/Duncanma) puts it well in his email footer: "Due to my own schedule and travel, you may get emails from me outside of normal working hours. Please do not feel any pressure to respond outside of your own work time". I like that.
