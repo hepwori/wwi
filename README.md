@@ -41,7 +41,7 @@ Likely if you report to me, and possibly even if you don't, the following will b
 1. Consider keeping a tidy to-do list and maybe [have your life changed](https://twitter.com/isaach/status/897479250646794242).
 1. Remember that—unless you’re really explicitly given a hard requirement—most things asked of you should be treated as _input_ into your prioritization process. This goes even for direction given by your manager: my default approach is to treat my manager as a stakeholder in my work, and my job is to weigh and balance the needs of _all_ the various stakeholders, my boss included.
 1. I aim to have "career chats" with my directs every few weeks or so—to check in on trajectories, desires, ambitions, and so on. This can be as often as they like at their option, but if they don’t bring it up at all then I will.
-1. I've found the “[I like, I wish, I wonder](https://www.linkedin.com/pulse/20131017224857-6488620-i-like-i-wish-i-wonder)” feedback framework generally useful. Consider using it to give feedback and to solicit feedback.
+1. I've found the “[I like, I wish, I wonder](https://medium.com/@sugar_network/i-like-i-wish-i-wonder-c44e78b76627)” feedback framework generally useful. Consider using it to give feedback and to solicit feedback.
 1. I hold myself strictly to the principle that one’s documents/spreadsheets/decks should be open for commenting across the company unless there’s a really good reason.
     1. Good reason: protecting the confidence of a partner/customer/colleague.
     1. Good reason: the document includes personnel information (perf data, upcoming org change, HC planning, anything HR-related.)
