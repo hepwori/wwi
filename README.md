@@ -20,7 +20,7 @@ Likely if you report to me, and possibly even if you don't, the following will b
     1. My family? A wife who's recovering from cancer; two daughters, 10 and 12.
 1. If you receive an email from me at night then the right interpretation is “because Isaac is doing work on his schedule” rather than “Isaac wants an answer right now”.
     1. Same with chats/IMs.
-    1. A [colleague of mine](https://twitter.com/Duncanma) puts it well in his email footer: "Due to my own schedule and travel, you may get emails from me outside of normal working hours. Please do not feel any pressure to respond outside of your own work time". I like that.
+    1. An [ex-colleague of mine](https://twitter.com/Duncanma) put it well in his email footer: "Due to my own schedule and travel, you may get emails from me outside of normal working hours. Please do not feel any pressure to respond outside of your own work time". I like that.
 1. I mostly don’t care if your email processing schedule aligns with mine or not.
     1. If I need your attention on something with tremendous urgency, I’ll not be expecting you to find that out by checking your email (corollary: you’ll not be missing any massively urgent things by not checking your email at night.)
 1. I believe in “clean” downtime, as in: time off where you go firmly offline work-wise. Make sure you spend enough of your vacation days this way; it’s valuable, healthy, and important.
