@@ -4,6 +4,7 @@
 
 **Author**: [@isaach](https://twitter.com/isaach) \
 **Version history**:
+* v1.2: January 2023
 * v1.1:	June 2019
 * v1: 	[August 2017](https://docs.google.com/document/d/1r8-l3Chsp-4Z6w0BPGSlDNkR3Tkqbcud52ESm6PE61Y/)
 
@@ -13,10 +14,10 @@
 
 Likely if you report to me, and possibly even if you don't, the following will be useful:
 
-1. I generally work ~8.30am–~5.30pm MT, and then often ~10pm–~12am MT. The time in between I aim to reserve for me and family.
+1. I generally work ~8.30am–~5.30pm MT. Time outside of that I aim to reserve for me and family.
     1. That’s me. You do you.
     1. Late-night email isn’t in general expected or desired.
-    1. My family? A wife who's recovering from cancer; two daughters, 8 and 10.
+    1. My family? A wife who's recovering from cancer; two daughters, 10 and 12.
 1. If you receive an email from me at night then the right interpretation is “because Isaac is doing work on his schedule” rather than “Isaac wants an answer right now”.
     1. Same with chats/IMs.
     1. A [colleague of mine](https://twitter.com/Duncanma) puts it well in his email footer: "Due to my own schedule and travel, you may get emails from me outside of normal working hours. Please do not feel any pressure to respond outside of your own work time". I like that.
@@ -35,6 +36,9 @@ Likely if you report to me, and possibly even if you don't, the following will b
 1. I find it useful to make a list of the stuff which needs doing, and plot it (even notionally) on the urgent/significant and the impact/effort matrix. Stack rank it, and don’t worry if stuff further down on this list doesn’t get done.
     1. There will always be stuff which doesn’t get done; the trick is make sure it’s the right stuff not to get done :).
     1. If you’re overloaded, please holler and we’ll together work out what stuff can not get done. If you need my help with anything, similarly please holler. I’m invested in your success.
+1. "Product management" is [much better conceptualized as "problem management"](https://twitter.com/isaach/status/1070905804272746496). Owning the problem leads to considerably better results than owning the product.
+    1. The example I use is that a PM should orient their thinking around "measuring things" as a problem rather than "retractable tape measure" as a product.
+    1. You'll be much better able escape local maxima that way.
 1. I highly recommend that you reserve some time on your calendar for “thinking and creating time” and defend it aggressively.
     1. “Thinking and creating time” isn’t a time for email! Use it to work on that strategy deck you’ve been meaning to get to, or that PRD that’s been languishing, ways to increase team velocity, or to think about work themes for next quarter.
     1. “Thinking and creating time” is for working on bigger thoughts which can’t be squeezed into the gaps in a series of meetings
