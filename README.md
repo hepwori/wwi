@@ -42,7 +42,7 @@ Likely if you report to me, and possibly even if you don't, the following will b
 1. I highly recommend that you reserve some time on your calendar for “thinking and creating time” and defend it aggressively.
     1. “Thinking and creating time” isn’t a time for email! Use it to work on that strategy deck you’ve been meaning to get to, or that PRD that’s been languishing, ways to increase team velocity, or to think about work themes for next quarter.
     1. “Thinking and creating time” is for working on bigger thoughts which can’t be squeezed into the gaps in a series of meetings
-1. Consider keeping a tidy to-do list and maybe [have your life changed](https://twitter.com/isaach/status/897479250646794242).
+1. Consider keeping a tidy to-do list and maybe [have your life changed](ft.jpg).
 1. Remember that—unless you’re really explicitly given a hard requirement—most things asked of you should be treated as _input_ into your prioritization process. This goes even for direction given by your manager: my default approach is to treat my manager as a stakeholder in my work, and my job is to weigh and balance the needs of _all_ the various stakeholders, my boss included.
 1. I aim to have "career chats" with my directs every few weeks or so—to check in on trajectories, desires, ambitions, and so on. This can be as often as they like at their option, but if they don’t bring it up at all then I will.
 1. I've found the “[I like, I wish, I wonder](https://medium.com/@sugar_network/i-like-i-wish-i-wonder-c44e78b76627)” feedback framework generally useful. Consider using it to give feedback and to solicit feedback.
